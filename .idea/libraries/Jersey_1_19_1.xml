@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Jersey-1.19.1" type="JAX-RS">
+    <properties version="2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.ws.rs-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-bundle-1.19.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
